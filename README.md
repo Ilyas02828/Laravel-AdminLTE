@@ -63,4 +63,34 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 
 ## License
 
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).  
+# Laravel-AdminLTE
+*Laravel-AdminLTE Theme for Laravel 11*    The Laravel-AdminLTE theme is a powerful, responsive, and modern admin dashboard template tailored for Laravel 11.
+
+Requirements
+The current package requirements are:
+
+Laravel >= 11.x
+PHP >= 8.2 
+ #Laravel
+#Laravel11
+#AdminLTE
+#AdminLTE3
+#LaravelAdminLTE
+#LaravelDashboard
+#AdminPanel
+#OpenSource
+#WebDevelopment
+#PHP
+#Bootstrap
+#UIKit
+#AdminDashboard
+#ResponsiveDesign
+#AdminInterface
+#WebApp
+#Frontend
+#Backend
+#LaravelProject
+#DashboardTemplate
+#AdminTemplate
+#PHPDevelopment
